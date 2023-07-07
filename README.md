@@ -1,10 +1,11 @@
 <h1>Hi there, I'm Asif Amin <a href="https://asifaminisonline.github.io/portfolio_website/">Full-stack web developer</a> 👋</h1>
 <h2>I'm a Developer, and Self-Learner!!</h2>
 <ul>
-  <li>🌱 I’m currently learning everything 🤣</li>
+  <li>💻 I have completed my full-stack development bootcamp from Microverse😄</li>
   <li>👯 I’m looking to collaborate with other developers</li>
-  <li>🥅 2022 Goals: Learn more about web development & enhance my coding skills</li>
+  <li>🥅 2023 Goals: Learn more about web development & enhance my coding skills</li>
   <li>⚡ Fun fact: I love to work and play games</li>
+  <li>💼 Available to Hire</li>
 </ul>
 
 <h2>Connect with me:</h2>
